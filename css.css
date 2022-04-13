@@ -19,7 +19,7 @@
 
 /* Reduce player height */
 .video-js {
-  height: 35px;
+  height: 35px !important;
   width: 100%;
 }
 
